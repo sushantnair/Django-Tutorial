@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    background-color: cyan;
+}
+
+ul{
+    font-size: 20;
+    flex-direction: column;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+} 
+
+.flex-container > li{
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 20px;
+}
