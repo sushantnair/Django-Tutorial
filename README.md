@@ -1,6 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/sushantnair/Django-Tutorial/blob/main/LICENSE)
-[![GitHub package version](https://img.shields.io/github/package-json/v/sushantnair/Django-Tutorial/releases/tag/v2.0)](https://github.com/sushantnair/Django-Tutorial/)
 # Django-Tutorial
 A comprehensive walkthrough of Django's main features that make it such a powerful website development tool. The codes are inspired from and the notes are created by Mrs. Nirmala Baloorkar, Assistant Professor, KJ Somaiya College of Engineering, SVU, Vidyavihar, Mumbai, 400077.
 
